@@ -1,1 +1,1 @@
-# .github
+# Bienvenid@ al equipo
